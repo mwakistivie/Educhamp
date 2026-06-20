@@ -1,0 +1,2 @@
+# Educhamp
+school result management
